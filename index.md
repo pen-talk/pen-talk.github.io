@@ -23,6 +23,13 @@ IRC上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 四『無』之意：政治，獨斷，爭鬪，蔑視。
 
 
+## 工具
+
+- [中文字典](https://www.zdic.net/)
+- [日文字典](https://kanji.jitenon.jp/)
+- [韓文字典](https://hanja.dict.naver.com/)
+
+
 ## 關此文書之情報
 
 - 文字：全用傳統之漢字。
