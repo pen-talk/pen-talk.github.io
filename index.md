@@ -7,7 +7,7 @@ IRC上談話會，漢字筆談會。『漢字文化圈』交流之場也。
 
 ## 參加方法
 
-用[KiwiIRC直結](https://kiwiirc.com/nextclient/#irc://irc.freenode.net/##han-chars)/[IRCCloud招待](https://www.irccloud.com/irc/freenode/channel/%23%23han-chars)，或用[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)Client，接[Freenode](http://freenode.net/)，入`##han-chars`（有二個井字）。
+從[KiwiIRC直結](https://kiwiirc.com/nextclient/#irc://irc.freenode.net/##han-chars)/[IRCCloud招待](https://www.irccloud.com/invite?channel=%23%23han-chars&hostname=irc.freenode.net&port=6697&ssl=1)，或用[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)Client，接[Freenode](http://freenode.net/)，入`##han-chars`（有二個井字）。
 
 ## 規程
 
