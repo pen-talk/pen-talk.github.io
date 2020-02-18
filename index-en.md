@@ -1,0 +1,38 @@
+---
+layout: home
+---
+
+## Welcome!
+
+漢字筆談會(Han Characters Written Talk Community) is a Discord server where all conversations is performed with 漢字(Han Characters).
+
+Anyone who knows Han Characters, from beginner to masters, can freely join and talk about anything. 
+
+
+## How to Join
+
+Follow this [Invite link](https://discord.gg/4VvJtWX).
+
+
+## Rules
+
+- 有：恭，言，得，談
+- 無：政，獨，爭，蔑
+
+Meaning of four '有'(to have): respect, words, understand, conversation.
+
+Meaning of four '無'(not to have): politics, dogmatism, argument, scorn.
+
+
+## Helpful Links
+
+- [808 Han Characters]({{ site.baseurl }}/han808) to get started
+- [Chinese Dictionary](https://www.zdic.net/)
+- [Japanese Dictionary](https://kanji.jitenon.jp/)
+- [Korean Dictionary](https://hanja.dict.naver.com/)
+
+
+## About this Page
+
+- Writing System: Roman Alphabet
+- Language: English
