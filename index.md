@@ -4,16 +4,15 @@ layout: home
 
 ## 歡迎！
 
-IRC上談話會，漢字筆談會。『漢字文化圈』交流之地也。
+Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 知漢字者皆能來，談話主題不限，文字只用漢字。
 
 
 ## 參加方法
 
-從[KiwiIRC直結](https://kiwiirc.com/nextclient/#irc://irc.freenode.net/##han-chars)/[IRCCloud招待](https://www.irccloud.com/invite?channel=%23%23han-chars&hostname=irc.freenode.net&port=6697&ssl=1)，或用[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)Client，接[Freenode](http://freenode.net/)，入`##han-chars`（有二個井字）。
+從[招待直結](https://discord.gg/4VvJtWX)。
 
-亦可見[談話記錄](https://han-logbot.now.sh/logs/han-chars)。
 
 ## 規程
 
