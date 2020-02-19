@@ -7,7 +7,7 @@
 }
 
 .c-page__header {
-    margin-bottom: 10rem; // 100px
+    margin-bottom: 5rem;
 
     h1 {
         margin-bottom: 2.5rem; // 25px
@@ -54,5 +54,49 @@
         height: auto;
         position: absolute;
         transform: translateY(-50%);
+    }
+}
+
+.c-page__nav {
+    border-bottom: 3px solid $c-base__01;
+    position: relative;
+
+    overflow: hidden;
+
+    span {
+        position: absolute;
+        right: 0px;
+        top: -16px;
+
+        font-size: 56px;
+        color: gray;
+        transform: rotate(10deg);
+    }
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        
+        padding: 5px 20px;
+        list-style: none;
+        font-size: 1.8rem;
+    }
+
+    li, a {
+        color: $c-base__02;
+    }
+
+    a:hover {
+        color: $c-accent__blue;
+    }
+
+    li:first-child::before {
+        display: none;
+    }
+
+    li::before {
+        display: inline-block;
+        content: "/";
+        margin: 0px 16px;
     }
 }

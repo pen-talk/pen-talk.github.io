@@ -4,9 +4,11 @@
     {% if page.title == 'Home' %}
         <h4>{{ site.description }}</h4>
     {% endif %}
-    <p>
-        <a href="{{ site.baseurl }}/">漢字</a>
-        <span class="u-separate"></span>
-        <a href="{{ site.baseurl }}/en">English</a>
-    </p>
+    <nav class="c-page__nav">
+        <ul>
+            <li><a class="no-hov" href="{{ site.baseurl }}/">漢字</a></li>
+            <li><a class="no-hov" href="{{ site.baseurl }}/en">English</a></li>
+        </ul>
+        <!--<span>筆</span>-->
+    </nav>
 </header>
