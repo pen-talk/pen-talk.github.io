@@ -5,7 +5,7 @@ permalink: /en
 
 ## Welcome!
 
-漢字筆談會 (Han Characters Written Talk Community) is a Discord server where all conversations is performed with 漢字 (Han Characters).
+漢字筆談會 (Han Characters Pen Talk Community) is a Discord server where all conversations are done with 漢字 (Han Characters).
 
 Anyone who knows Han Characters, from beginner to master, can freely join and talk about anything. 
 
