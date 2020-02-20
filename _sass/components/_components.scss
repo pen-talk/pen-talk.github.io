@@ -1,5 +1,8 @@
 
 .site-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: 80px;
 }
 
@@ -68,6 +71,9 @@
 }
 
 .site-footer > .footer-nav {
+    width: 480px;
+    max-width: 100%;
+    border-top: 3px solid $base-00;
     ul {
         display: flex;
         flex-direction: row;
