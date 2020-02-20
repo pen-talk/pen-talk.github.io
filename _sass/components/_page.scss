@@ -1,102 +1,80 @@
-/* ==========================================================================
-   Page
-   ========================================================================== */
 
-.c-page {
-
+body {
+    background-color: $background;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
-.c-page__header {
-    margin-bottom: 5rem;
-
-    h1 {
-        margin-bottom: 2.5rem; // 25px
-        @include fs--heading-1;
-        color: $c-base__02;
-    }
-
-    p {
-        @include fs--meta;
-    }
+a {
+    text-decoration: none;
+    color: $accent-blue;
+    transition: color 0.75s;
 }
 
-.c-page__footer {
-    margin-bottom: 10rem;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-            flex-wrap: wrap;
-    -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
-    p {
-        @include fs--body;
-        color: $c-base__01;
+a:visited {
+    color: $accent-blue;
+}
+
+a:hover {
+    color: $accent-navy;
+    transition: color 0.25s;
+}
+
+nav > ul {
+    list-style: none;
+    li {
+        margin-left: 0px;
     }
 }
 
-.c-header__img {
-    width: 100%;
-    height: 200px;
-    position: relative;
-    overflow: hidden;
-
-    img {
-        width: 100%;
-        height: auto;
-        position: absolute;
-        transform: translateY(-50%);
-    }
+li {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;;
 }
 
-.c-page__nav {
-    border-bottom: 3px solid $c-base__01;
-    position: relative;
+ul {
+    list-style: disc;
+}
 
-    overflow: hidden;
+ol {
+    list-style: decimal;
+}
 
-    span {
-        position: absolute;
-        right: 0px;
-        top: -16px;
+p {
+    margin-bottom: 10px;
+    line-height: 150%;
+    font-size: 12pt;
+}
 
-        font-size: 56px;
-        color: gray;
-        transform: rotate(10deg);
-    }
+h1, h2, h3,  h4, h5, h6 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
 
-    ul {
-        display: flex;
-        flex-direction: row;
-        
-        padding: 5px 20px;
-        list-style: none;
-        font-size: 1.8rem;
-    }
+h1 {
+    font-size: 32pt;
+}
 
-    li, a {
-        color: $c-base__02;
-    }
+h2 {
+    font-size: 24pt;
+}
 
-    a:hover {
-        color: $c-accent__blue;
-    }
+h3 {
+    font-size: 20pt;
+}
 
-    li:first-child::before {
-        display: none;
-    }
+h4 {
+    font-size: 18pt;
+}
 
-    li::before {
-        display: inline-block;
-        content: "/";
-        margin: 0px 16px;
-    }
+h5 {
+    font-size: 16pt;
+}
+
+h6 {
+    font-size: 15pt;
+}
+
+.center {
+    text-align: center;
 }

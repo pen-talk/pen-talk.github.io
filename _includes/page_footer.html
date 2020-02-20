@@ -1,0 +1,2 @@
+<footer class="page-footer">
+</footer>
