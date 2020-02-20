@@ -3,13 +3,11 @@
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-}
-
-.page.vertical {
-    max-width: 1024px;
+    padding: 0px 60px;
 }
 
 .vertical {
+    text-align: left;
     writing-mode: vertical-rl;
     -webkit-writing-mode: vertical-rl;
     -ms-writing-mode: vertical-rl;

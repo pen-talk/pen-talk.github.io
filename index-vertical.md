@@ -1,14 +1,7 @@
 ---
-layout: home
-permalink: /horizontal
+layout: vertical_home
+permalink: /
 ---
-
-## 歡迎！
-
-Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
-
-知漢字者皆能來，談話主題不限，文字只用漢字。
-
 
 ## 參加方法
 
