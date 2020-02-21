@@ -1,5 +1,6 @@
 ---
 layout: vertical_home
+title: 歡迎！
 permalink: /
 ---
 
