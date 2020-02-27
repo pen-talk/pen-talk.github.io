@@ -33,9 +33,3 @@ Meaning of four '無'(not to have): politics, dogmatism, argument, scorn.
 - [Chinese Dictionary](https://www.zdic.net/)
 - [Japanese Dictionary](https://kanji.jitenon.jp/)
 - [Korean Dictionary](https://hanja.dict.naver.com/)
-
-
-## About this Page
-
-- Writing System: Roman Alphabet
-- Language: English
