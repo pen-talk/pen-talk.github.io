@@ -12,7 +12,9 @@ Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 ## 參加方法
 
-從[招待直結](https://discord.gg/4VvJtWX)。
+用招待工具。
+
+{% include discord_widget.html %}
 
 
 ## 規程

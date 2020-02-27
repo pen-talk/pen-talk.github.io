@@ -12,7 +12,9 @@ Anyone who knows Han Characters, from beginner to master, can freely join and ta
 
 ## How to Join
 
-Follow this [Invite link](https://discord.gg/4VvJtWX).
+Use this widget.
+
+{% include discord_widget.html %}
 
 
 ## Rules
