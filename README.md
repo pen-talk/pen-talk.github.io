@@ -1,5 +1,7 @@
 # 漢字筆談會
 
+[English](https://han-chars.github.io/en)
+
 ## 歡迎！
 
 Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
@@ -9,7 +11,7 @@ Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 ## 參加方法
 
-見[網站](https://han-chars.github.io/#參加方法)。
+見[網站](https://han-chars.github.io#參加方法)。
 
 ## 規程
 
