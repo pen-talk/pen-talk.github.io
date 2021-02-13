@@ -1,7 +1,23 @@
 
 body {
     background-color: $background;
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans TC', 'Noto Sans SC', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans', sans-serif;
+}
+
+.lang-tc {
+    font-family: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Heiti TC", "MingLiU", Roboto, Noto, sans-serif;
+}
+
+.lang-sc {
+    font-family: "Noto Sans SC", "Noto Sans CJK SC", "方体", "PingFang SC", "黑体", "Heiti SC", "Microsoft JhengHei UI", "Microsoft JhengHei", Roboto, Noto, sans-serif;
+}
+
+.lang-ja {
+    font-family: "Noto Sans JP", "Noto Sans CJK JP", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", TakaoPGothic, sans-serif;
+}
+
+.lang-ko {
+    font-family: 'Noto Sans KR', 'Noto Sans CJK KR', '나눔바른고딕', 'Nanum Barun Gothic', 'NanumBarunGothic', '나눔고딕', 'Nanum Gothic', 'NanumGothic', '맑은 고딕', 'Malgun Gothic', sans-serif;
 }
 
 a {
@@ -42,37 +58,12 @@ ol {
 
 p {
     margin-block-end: 10px;
-    line-height: 150%;
-    font-size: 12pt;
+    line-height: 175%;
 }
 
 h1, h2, h3,  h4, h5, h6 {
     margin-block-start: 30px;
     margin-block-end: 20px;
-}
-
-h1 {
-    font-size: 32pt;
-}
-
-h2 {
-    font-size: 24pt;
-}
-
-h3 {
-    font-size: 20pt;
-}
-
-h4 {
-    font-size: 18pt;
-}
-
-h5 {
-    font-size: 16pt;
-}
-
-h6 {
-    font-size: 15pt;
 }
 
 .center {

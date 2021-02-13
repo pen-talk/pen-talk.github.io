@@ -8,20 +8,20 @@ permalink: /han808/
     <thead>
         <tr>
             <th></th>
-            <th class="traditional">繁體字</th>
-            <th class="simplified">简体字</th>
-            <th class="japanese">日本語</th>
-            <th class="korean">韓國語</th>
+            <th class="lang-tc">繁體字</th>
+            <th class="lang-sc">简体字</th>
+            <th class="lang-ja">日本語</th>
+            <th class="lang-ko">韓國語</th>
         </tr>
     </thead>
     <tbody>
         {% for item in site.data.han808 %}
         <tr>
             <th class="id">{{ item.id }}</th>
-            <td class="traditional">{{ item.traditional }}</td>
-            <td class="simplified">{{ item.simplified }}</td>
-            <td class="japanese">{{ item.japan }}</td>
-            <td class="korean">{{ item.korea }}</td>
+            <td class="lang-tc">{{ item.traditional }}</td>
+            <td class="lang-sc">{{ item.simplified }}</td>
+            <td class="lang-ja">{{ item.japan }}</td>
+            <td class="lang-ko">{{ item.korea }}</td>
         </tr>
         {% endfor %}
     </tbody>

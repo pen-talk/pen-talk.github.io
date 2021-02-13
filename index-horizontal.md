@@ -5,7 +5,7 @@ permalink: /horizontal
 
 ## 歡迎！
 
-Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
+{% include ruby.html base='齟齬' top='Discord' %}上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 知漢字者皆能來，談話主題不限，文字只用漢字。
 

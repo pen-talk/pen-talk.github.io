@@ -3,35 +3,11 @@ layout: home
 title: 歡迎！
 permalink: /
 ---
-<style>
-    p, ul {
-        font-size: 14pt;
-    }
-    p {
-        line-height: 175%;
-    }
-    h2 {
-        font-size: 28pt;
-    }
-    div {
-        margin: 10px 0px;
-    }
-    .items-center {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .more {
-        padding-bottom: 40px;
-        text-align: center;
-        color: #aaaaaa;
-    }
-</style>
 
 <div class="items-center" style="min-height: 75vh;">
     <div class="items-center">
-        <h2 id="歡迎！" style="margin-left: 0.5em;">歡迎！</h2>
-        <div class="vertical">
+        <h1 id="歡迎！" style="margin-left: 0.5em; font-size: 200%;">歡迎！</h1>
+        <div class="vertical" style="font-size: 110%;">
             <p>
                 {% include ruby.html base='齟齬' top='Discord' %}上談話會、漢字筆談會。<br>
                 『漢字文化圈』交流之地也。
