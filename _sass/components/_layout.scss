@@ -11,4 +11,8 @@
     writing-mode: vertical-rl;
     -webkit-writing-mode: vertical-rl;
     -ms-writing-mode: vertical-rl;
+    text-orientation: upright;
+    rt {
+        text-orientation: mixed;
+    }
 }

@@ -30,10 +30,17 @@ permalink: /
 
 <div class="items-center" style="min-height: 75vh;">
     <div class="items-center">
-        <h2 id="歡迎！">歡迎！</h2>
+        <h2 id="歡迎！" style="margin-left: 0.5em;">歡迎！</h2>
         <div class="vertical">
-            <p>Discord上談話會、漢字筆談會。<br>『漢字文化圈』交流之地也。</p>
-            <p>知漢字者皆能來、<br>談話主題不限、<br>文字只用漢字。</p>
+            <p>
+                {% include ruby.html base='齟齬' top='Discord' %}上談話會、漢字筆談會。<br>
+                『漢字文化圈』交流之地也。
+            </p>
+            <p>
+                知漢字者皆能來、<br>
+                談話主題不限、<br>
+                文字只用漢字。
+            </p>
         </div>
     </div>
     <div class="more">
