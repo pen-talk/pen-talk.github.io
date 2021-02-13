@@ -8,10 +8,10 @@ permalink: /han808/
     <thead>
         <tr>
             <th></th>
-            <th>繁體字</th>
-            <th>简体字</th>
-            <th>日本</th>
-            <th>韓國</th>
+            <th class="traditional">繁體字</th>
+            <th class="simplified">简体字</th>
+            <th class="japanese">日本語</th>
+            <th class="korean">韓國語</th>
         </tr>
     </thead>
     <tbody>
@@ -20,8 +20,8 @@ permalink: /han808/
             <th class="id">{{ item.id }}</th>
             <td class="traditional">{{ item.traditional }}</td>
             <td class="simplified">{{ item.simplified }}</td>
-            <td class="japan">{{ item.japan }}</td>
-            <td class="korea">{{ item.korea }}</td>
+            <td class="japanese">{{ item.japan }}</td>
+            <td class="korean">{{ item.korea }}</td>
         </tr>
         {% endfor %}
     </tbody>

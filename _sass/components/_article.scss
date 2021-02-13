@@ -1,6 +1,7 @@
 
 table.han808 {
     border-bottom: 3px solid #444444;
+    margin: 0 auto;
     thead {
         background: #444444;
         color: #ffffff;
@@ -12,17 +13,21 @@ table.han808 {
         width: 75px;
         padding: 5px 10px;
         text-align: center;
+        font-size: 1.1em;
     }
     tr:nth-child(even) {
         background: #eeeeee;
     }
-    td.simplified {
-        font-family: "方体", "PingFang SC", "黑体", "Heiti SC", "Microsoft JhengHei UI", "Microsoft JhengHei", Roboto, Noto, "Noto Sans CJK SC", "Noto CJK SC", sans-serif;
+    .traditional {
+        font-family: "Noto Sans CJK TC", "Noto CJK TC", "PingFang TC", "Heiti TC", "MingLiU", Roboto, Noto, sans-serif;
     }
-    td.japan {
-        font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", "Noto CJK JP", TakaoPGothic, sans-serif;
+    .simplified {
+        font-family: "Noto Sans CJK SC", "Noto CJK SC", "方体", "PingFang SC", "黑体", "Heiti SC", "Microsoft JhengHei UI", "Microsoft JhengHei", Roboto, Noto, sans-serif;
     }
-    td.korea {
+    .japanese {
+        font-family: "Noto Sans CJK JP", "Noto CJK JP", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", TakaoPGothic, sans-serif;
+    }
+    .korean {
         font-family: 'Noto Sans CJK KR', 'Noto CJK KR', '나눔바른고딕', 'Nanum Barun Gothic', 'NanumBarunGothic', '나눔고딕', 'Nanum Gothic', 'NanumGothic', '맑은 고딕', 'Malgun Gothic', sans-serif;
     }
 }
