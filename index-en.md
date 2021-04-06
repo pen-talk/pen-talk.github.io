@@ -19,12 +19,20 @@ Use this widget.
 
 ## Rules
 
-- 有：恭，言，得，談
-- 無：政，獨，爭，蔑
+一、文字之用法
+* <u>實質意義</u>之 語彙，專用 <u>漢字</u>
+* 以 <u>韓㐎</u> 或 <u>假名</u>，可 補助
+* 先，作<u>漢字專用文</u>，後，附 <u>假名</u>或 <u>韓㐎</u>
 
-Meaning of four '有'(to have): respect, words, understand, conversation.
+二、注意
+* 禁 政治，宗敎，思想，等等之 話題
+* 脫 出身，不問 出身地名
+* 忌 <u>國家</u>名，言 <u>都市</u>名
 
-Meaning of four '無'(not to have): politics, dogmatism, argument, scorn.
+三、理解之補助
+* 標點 · 分隔，必須
+* 固有名詞，用「括弧」或<u>下線</u>
+* <u>英文字</u>，時時 補助
 
 
 ## Helpful Links
