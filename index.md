@@ -43,7 +43,7 @@ permalink: /
 
 ## 工具
 
-- [八百八通用漢字]({{ site.baseurl }}/han808)
+- [八〇八通用漢字]({{ site.baseurl }}/han808)
 - [中文字典](https://www.zdic.net/)
 - [日文字典](https://kanji.jitenon.jp/)
 - [韓文字典](https://hanja.dict.naver.com/)
