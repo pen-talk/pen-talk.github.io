@@ -1,6 +1,6 @@
 # 漢字筆談會
 
-[English](https://han-chars.github.io/en)
+[English](https://pen-talk.github.io/en)
 
 ## 歡迎！
 
@@ -11,7 +11,7 @@ Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 ## 參加方法
 
-見[網站](https://han-chars.github.io#參加方法)。
+見[網站](https://pen-talk.github.io#參加方法)。
 
 ## 規程
 
@@ -25,7 +25,7 @@ Discord上談話會，漢字筆談會。『漢字文化圈』交流之地也。
 
 ## 工具
 
-- [八百八通用漢字](https://han-chars.github.io/han808)
+- [八百八通用漢字](https://pen-talk.github.io/han808)
 - [中文字典](https://www.zdic.net/)
 - [日文字典](https://kanji.jitenon.jp/)
 - [韓文字典](https://hanja.dict.naver.com/)
